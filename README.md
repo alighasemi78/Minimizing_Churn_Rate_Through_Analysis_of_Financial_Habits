@@ -1,0 +1,2 @@
+# Minimizing_Churn_Rate_Through_Analysis_of_Financial_Habits
+A Machine Learning project
